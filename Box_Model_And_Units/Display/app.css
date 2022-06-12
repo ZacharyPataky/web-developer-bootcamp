@@ -1,0 +1,25 @@
+span {
+    background-color: palevioletred;
+    border: 1px solid black;
+    width: 500px;  /* Ignored in-line */
+    padding: 10px;  /* Sitting above content */
+    margin: 50px;  /* Respected horizontally, not vertically */
+}
+
+h1 {
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    width: 500px;
+    padding: 50px;
+    margin: 50px;
+    display: none;  /* Invisible! */
+}
+
+div {
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    background-color: olivedrab;
+    border: 5px solid black;
+    display: inline-block;
+}
