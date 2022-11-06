@@ -50,5 +50,6 @@ Completing this course taught me many things.  You can find most of them in the 
 
 Feel free to look around if you need a quick refesher on any topic. I feel like I may periodically snoop back here myself.
 
-Note-1: I dumped all of my data to this repository at once.  Please forgive my lack of diligent commits.
-Note-2: You can locate my YelpCamp project via the [yelpcamp] repository.  Here's the link the deployed application: http://yelpcamp-zp.herokuapp.com/
+**Notes**
+* I dumped all of my data to this repository at once.  Please forgive my lack of diligent commits.
+* You can locate my YelpCamp project via the [yelpcamp] repository.  Here's the link the deployed application: http://yelpcamp-zp.herokuapp.com/
