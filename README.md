@@ -1,3 +1,5 @@
+# web-developer-bootcamp
+
 This repository contains the code written during my time studying Colt Steele's [The Web Developer Bootcamp 2022] on Udemy.
 
 This course was completely overhauled in 2022 to illuminate the most important topics for modern web development.  Without a doubt, it's the most comprehensive and effective web development course on the market.  Here's why:
